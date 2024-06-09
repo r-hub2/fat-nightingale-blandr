@@ -1,6 +1,6 @@
 Package: blandr
 Title: Bland-Altman Method Comparison
-Version: 0.6
+Version: 0.6.0
 Date: 2024-06-09
 Description: Carries out Bland Altman analyses (also known as a Tukey
     mean-difference plot) as described by JM Bland and DG Altman in
@@ -42,7 +42,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Language: en-GB
 NeedsCompilation: no
-Packaged: 2024-06-09 11:29:33 UTC; deepankardatta
+Packaged: 2024-06-09 11:46:29 UTC; deepankardatta
 Author: Deepankar Datta [aut, cre],
   Jonathon Love [ctb]
 Maintainer: Deepankar Datta <deepankar.datta@gmail.com>
