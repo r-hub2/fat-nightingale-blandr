@@ -19,7 +19,8 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/deepankardatta/blandr/
 BugReports: https://github.com/deepankardatta/blandr/issues
-Imports: glue, ggplot2, knitr, stringr, jmvcore (>= 0.8.5), rmarkdown
+Imports: glue, ggplot2, knitr, stringr, jmvcore (>= 0.8.5), markdown,
+        rmarkdown
 Suggests: testthat
 SystemRequirements: pandoc (>=1.12.3)
 VignetteBuilder: knitr
@@ -39,7 +40,7 @@ Collate: 'blandr.data.preparation.r' 'blandr.dataset.fibre.r'
         'print.blandr.R'
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-06-09 09:10:40 UTC; deepankardatta
+Packaged: 2024-06-09 11:02:27 UTC; deepankardatta
 Author: Deepankar Datta [aut, cre],
   Jonathon Love [ctb]
 Maintainer: Deepankar Datta <deepankar.datta@gmail.com>
